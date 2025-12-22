@@ -75,10 +75,14 @@ python src/train.py
 
 
 ## Datset
-TextrolSpeech: https://github.com/jishengpeng/TextrolSpeech
-GigaSpeech: https://github.com/SpeechColab/GigaSpeech
-Zhvoice: https://github.com/fighting41love/zhvoice
-PromptSpeech: https://speechresearch.github.io/prompttts/#promptspeech
+- TextrolSpeech: https://github.com/jishengpeng/TextrolSpeech
+
+- GigaSpeech: https://github.com/SpeechColab/GigaSpeech
+
+- Zhvoice: https://github.com/fighting41love/zhvoice
+
+- PromptSpeech: https://speechresearch.github.io/prompttts/#promptspeech
+
 
 
 
