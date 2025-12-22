@@ -1,0 +1,26 @@
+model_settings:
+  layers: 2
+
+epochs: 10
+batch_size: 96
+num_workers: 4
+learning_rate: 4e-5
+adapter_lr: 1e-4
+weight_decay: 0.01
+warmup_epochs: 1
+eval_steps: 400
+min_lr: 1e-6
+seed: 3407
+gradient_accumulation_steps: 2
+val_size: 2000
+model_save_dir: '/home/checkpoints_save/fsclap'
+latest_checkpoint_path: ''
+logging_dir: /home/train/runs/Ours_ts_test
+train_csv_path: ['/data/TextrolSpeech_train.csv']
+test_csv_path: ['/data/TextrolSpeech_test.csv']
+
+
+
+
+
+
