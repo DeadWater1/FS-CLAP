@@ -13,7 +13,7 @@ pip install -r requirements.txt
 pip install -e .
 ```
 
-Then you can follow the infer script.
+Then you can follow this script.
 ```python
 import torch
 from models import CLAP_Dual
@@ -60,7 +60,7 @@ with torch.no_grad():
 print(probs)
 ```
 
-or directly run the inference script
+or directly run the infer script
 ```python
 python src/infer.py
 ```
@@ -74,7 +74,11 @@ python src/train.py
 ```
 
 
-## Evaluation
+## Datset
+TextrolSpeech: https://github.com/jishengpeng/TextrolSpeech
+GigaSpeech: https://github.com/SpeechColab/GigaSpeech
+Zhvoice: https://github.com/fighting41love/zhvoice
+PromptSpeech: https://speechresearch.github.io/prompttts/#promptspeech
 
 
 
