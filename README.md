@@ -74,7 +74,7 @@ python src/train.py
 ```
 
 
-## Datset
+## Datasets
 - TextrolSpeech: https://github.com/jishengpeng/TextrolSpeech
 
 - GigaSpeech: https://github.com/SpeechColab/GigaSpeech
@@ -84,6 +84,7 @@ python src/train.py
 - PromptSpeech: https://speechresearch.github.io/prompttts/#promptspeech
 
 - FS-CLAP dataset: https://huggingface.co/datasets/benozz/Chinese_drama_audio
+
 
 
 
