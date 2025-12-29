@@ -83,6 +83,9 @@ python src/train.py
 
 - PromptSpeech: https://speechresearch.github.io/prompttts/#promptspeech
 
+- FS-CLAP dataset: https://huggingface.co/datasets/benozz/FS_Audio
+
+
 
 
 
